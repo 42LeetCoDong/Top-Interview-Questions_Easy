@@ -8,6 +8,7 @@
 - hjeon
 - yujo
 - seongwpa
+- yonglee
 
 ### 목차
 - Array
