@@ -5,7 +5,3 @@ function removeDuplicates(nums: number[]): number {
 	}
 	return (nums.length);
 };
-
-let nums: number[] = [1, 1,2,3]
-removeDuplicates(nums)
-console.log(nums);
