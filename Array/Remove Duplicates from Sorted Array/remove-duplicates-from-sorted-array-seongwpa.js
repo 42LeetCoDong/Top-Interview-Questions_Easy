@@ -10,3 +10,7 @@ var removeDuplicates = function(nums) {
 	nums = nums.slice(0, Dup + 1);
 	return nums.length;
 };
+
+let nums = [1,1,2,3,4,4,4,5,6,6,6,6,7,8,8,8,9,9,9,9,9,13,13,13,13,13,17,17,17,17];
+console.log(removeDuplicates(nums));
+console.log(nums);
