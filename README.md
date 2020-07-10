@@ -1,12 +1,12 @@
 # [Top Interview Questions Easy](https://leetcode.com/explore/interview/card/top-interview-questions-easy/)
 
 ### 참여자
-- jaejeon
-- hjeon
-- yujo
-- seongwpa
+- [jaejeon](https://github.com/jayten42)
+- [hjeon](https://github.com/jho2301)
+- [yujo](https://github.com/YUJO42)
+- [seongwpa]()
 - yonglee
-- jjo
+- [jjo](https://github.com/batboy118)
 
 ## 목차 및 일자별 문제
 ### 07 / 09
