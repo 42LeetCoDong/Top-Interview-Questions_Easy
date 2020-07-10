@@ -4,7 +4,7 @@
 - [***jaejeon***(jayten42)](https://github.com/jayten42)
 - [***hjeon***(jho2301)](https://github.com/jho2301)
 - [***yujo***(YUJO42)](https://github.com/YUJO42)
-- [***seongwpa***(https://github.com/seongwpa)](https://github.com/seongwpa)
+- [***seongwpa***(seongwpa)](https://github.com/seongwpa)
 - yonglee
 - [***jjo***(batboy118)](https://github.com/batboy118)
 
