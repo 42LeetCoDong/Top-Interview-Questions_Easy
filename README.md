@@ -9,6 +9,7 @@
 - yujo
 - seongwpa
 - yonglee
+- jjo
 
 ### 목차
 - Array
