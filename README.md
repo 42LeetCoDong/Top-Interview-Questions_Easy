@@ -13,10 +13,12 @@
 #### Array
 - [Remove Duplicates from Sorted Array](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/727/)
 - [Best Time to Buy and Sell Stock II](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/564/)
+---
 ### 07 / 10
 #### Array
 - [Rotate Array](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/646/)
 - [Contains Duplicate](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/578/)
+---
 ### 07 / 11
 #### Array
 - [Single Number](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/649/)
@@ -24,6 +26,7 @@
 - [Plus One](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/559/)
 - [Move Zeroes](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/567/)
 - [Two Sum](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/546/)
+---
 ### 07 / 12
 #### Array
 - [Valid Sudoku](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/769/)
@@ -32,6 +35,7 @@
 - [Reverse String](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/879/)
 - [Reverse Integer](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/880/)
 - [First Unique Character in a String](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/881/)
+---
 ### 07 / 13
 #### Strings
 - [Valid Anagram](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/882/)
@@ -39,4 +43,4 @@
 - [String to Integer(atoi)](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/884/)
 - [Implement strStr()](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/885/)
 - [Count and Say](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/886/)
-
+---
