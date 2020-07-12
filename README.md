@@ -7,8 +7,8 @@
 - [***seongwpa***(seongwpa)](https://github.com/seongwpa)
 - yonglee
 - [***jjo***(batboy118)](https://github.com/batboy118)
-- [**dakim**(daeungkim)](https://github.com/daeungkim)
-
+- [***dakim***(daeungkim)](https://github.com/daeungkim)
+- [***holee***(hocahn222)](https://github.com/hochan222)
 ## 목차 및 일자별 문제
 ### 07 / 09
 #### Array
