@@ -38,14 +38,17 @@
 - [Reverse Integer](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/880/)
 ---
 ### 07 / 14
+#### Strings
 - [First Unique Character in a String](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/881/)
 - [Valid Anagram](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/882/)
 ---
 ### 07 / 15
+#### Strings
 - [Valid Palindrome](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/883/)
 - [String to Integer(atoi)](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/884/)
 ---
 ### 07 / 16
+#### Strings
 - [Implement strStr()](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/885/)
 - [Count and Say](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/886/)
 ---
