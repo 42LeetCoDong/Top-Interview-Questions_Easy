@@ -5,6 +5,7 @@ To represent a cycle in the given linked list, we use an integer `pos` which rep
 
 
 ***Example 1:***
+
 ```
 Input: head = [3,2,0,-4], pos = 1
 Output: true
@@ -12,6 +13,7 @@ Explanation: There is a cycle in the linked list, where tail connects to the sec
 ```
 
 ***Example 2:***
+
 ```
 Input: head = [1,2], pos = 0
 Output: true
@@ -19,6 +21,7 @@ Explanation: There is a cycle in the linked list, where tail connects to the fir
 ```
 
 ***Example 3:***
+
 ```
 Input: head = [1], pos = -1
 Output: false
