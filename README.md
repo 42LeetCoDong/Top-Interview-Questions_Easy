@@ -31,16 +31,21 @@
 #### Array
 - [Valid Sudoku](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/769/)
 - [Rotate Image](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/770/)
-#### Strings 
-- [Reverse String](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/879/)
-- [Reverse Integer](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/880/)
-- [First Unique Character in a String](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/881/)
 ---
 ### 07 / 13
 #### Strings
+- [Reverse String](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/879/)
+- [Reverse Integer](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/880/)
+---
+### 07 / 14
+- [First Unique Character in a String](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/881/)
 - [Valid Anagram](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/882/)
+---
+### 07 / 15
 - [Valid Palindrome](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/883/)
 - [String to Integer(atoi)](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/884/)
+---
+### 07 / 16
 - [Implement strStr()](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/885/)
 - [Count and Say](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/886/)
 ---
