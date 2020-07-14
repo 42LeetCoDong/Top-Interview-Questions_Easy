@@ -18,7 +18,7 @@ const checkAfterIndex = (nums: number[], index: number): boolean => {
 
 const singleNumber = (nums: number[]): number => {
     let returnValue: number = -1;
-    nums.forEach((value:number, index:number, array:number[]) => {
+    nums.forEach((value:number, index:number, array:number[]): void => {
         if (!checkAfterIndex(array, index)
             && !checkBeforeIndex(array, index)) {
             returnValue = value;
