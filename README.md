@@ -9,7 +9,6 @@
 - [***dakim***(daeungkim)](https://github.com/daeungkim)
 - [***holee***(hocahn222)](https://github.com/hochan222)
 ## 목차 및 일자별 문제
----
 ### 07 / 16
 #### Strings
 - [Implement strStr()](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/885/)
