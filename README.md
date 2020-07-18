@@ -9,6 +9,10 @@
 - [***dakim***(daeungkim)](https://github.com/daeungkim)
 - [***holee***(hocahn222)](https://github.com/hochan222)
 ## 목차 및 일자별 문제
+### 07 / 18
+#### Linked List
+- [Remove Nth Node From End of List](https://leetcode.com/explore/interview/card/top-interview-questions-easy/93/linked-list/603/)
+- [Reverse Linked List](https://leetcode.com/explore/interview/card/top-interview-questions-easy/93/linked-list/560/)
 ### 07 / 17
 #### Strings
 - [Longest Common Prefix](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/887/)
