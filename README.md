@@ -9,6 +9,16 @@
 - [***dakim***(daeungkim)](https://github.com/daeungkim)
 - [***holee***(hocahn222)](https://github.com/hochan222)
 ## 목차 및 일자별 문제
+### 07 / 22
+#### Trees
+- [Binary Tree Level Order Traversal](https://leetcode.com/explore/interview/card/top-interview-questions-easy/94/trees/628/)
+- [Convert Sorted Array to Binary Search Tree](https://leetcode.com/explore/interview/card/top-interview-questions-easy/94/trees/631/)
+---
+### 07 / 21
+#### Trees
+- [Validate Binary Search Tree](https://leetcode.com/explore/interview/card/top-interview-questions-easy/94/trees/625/)
+- [Symmetric Tree](https://leetcode.com/explore/interview/card/top-interview-questions-easy/94/trees/627/)
+---
 ### 07 / 20
 #### Linked List
 - [Linked List Cycle](https://leetcode.com/explore/featured/card/top-interview-questions-easy/93/linked-list/773/)
