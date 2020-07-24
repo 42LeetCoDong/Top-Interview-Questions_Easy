@@ -9,6 +9,11 @@
 - [***dakim***(daeungkim)](https://github.com/daeungkim)
 - [***holee***(hocahn222)](https://github.com/hochan222)
 ## 목차 및 일자별 문제
+### 07 / 26
+#### Design
+- [Shuffle an Array](https://leetcode.com/explore/interview/card/top-interview-questions-easy/98/design/670/)
+- [Min Stack](https://leetcode.com/explore/interview/card/top-interview-questions-easy/98/design/562/)
+---
 ### 07 / 25
 #### Dynamic Programming
 - [Maximum Subarray](https://leetcode.com/explore/interview/card/top-interview-questions-easy/97/dynamic-programming/566/)
