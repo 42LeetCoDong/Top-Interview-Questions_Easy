@@ -9,6 +9,21 @@
 - [***dakim***(daeungkim)](https://github.com/daeungkim)
 - [***holee***(hocahn222)](https://github.com/hochan222)
 ## 목차 및 일자별 문제
+### 07 / 31
+#### Others
+- [Valid Parentheses](https://leetcode.com/explore/featured/card/top-interview-questions-easy/99/others/721/)
+- [Missing Number](https://leetcode.com/explore/featured/card/top-interview-questions-easy/99/others/722/)
+---
+### 07 / 30
+#### Others
+- [Reverse Bits](https://leetcode.com/explore/featured/card/top-interview-questions-easy/99/others/648/)
+- [Pascal's Triangle](https://leetcode.com/explore/featured/card/top-interview-questions-easy/99/others/601/)
+---
+### 07 / 29
+#### Others
+- [Number of 1 Bits](https://leetcode.com/explore/featured/card/top-interview-questions-easy/99/others/565/)
+- [Hamming Distance](https://leetcode.com/explore/featured/card/top-interview-questions-easy/99/others/762/)
+---
 ### 07 / 28
 #### Math
 - [Power of Three](https://leetcode.com/explore/interview/card/top-interview-questions-easy/102/math/745/)
