@@ -9,6 +9,16 @@
 - [***dakim***(daeungkim)](https://github.com/daeungkim)
 - [***holee***(hocahn222)](https://github.com/hochan222)
 ## 목차 및 일자별 문제
+### 07 / 28
+#### Math
+- [Power of Three](https://leetcode.com/explore/interview/card/top-interview-questions-easy/102/math/745/)
+- [Roman to Integer](https://leetcode.com/explore/interview/card/top-interview-questions-easy/102/math/878/)
+---
+### 07 / 27
+#### Math
+- [Fizz Buzz](https://leetcode.com/explore/interview/card/top-interview-questions-easy/102/math/743/)
+- [Count Primes](https://leetcode.com/explore/interview/card/top-interview-questions-easy/102/math/744/)
+---
 ### 07 / 26
 #### Design
 - [Shuffle an Array](https://leetcode.com/explore/interview/card/top-interview-questions-easy/98/design/670/)
