@@ -1,6 +1,6 @@
 Given a non-negative integer *numRows*, generate the first *numRows* of Pascal's triangle.
 
-![](https://upload.wikimedia.org/wikipedia/commons/0/0d/PascalTriangleAnimated2.gif){: width="100%" height="100%"}{: .center}
+![](https://upload.wikimedia.org/wikipedia/commons/0/0d/PascalTriangleAnimated2.gif)
 
 In Pascal's triangle, each number is the sum of the two numbers directly above it.
 
