@@ -6,8 +6,9 @@ var reverseBits = function(n) {
 	let reversed = 0;
 
 	for (let i = 0; i < 32; i++) {
-			reversed += (n & 1) * (2 ** (31 - i));
-			n >>= 1;
+		reversed <<= 1;
+		reversed += (n & 1);
+		n >>= 1;
 	}
-	return (reversed);
+	return (reversed >>> 0);
 };
